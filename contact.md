@@ -1,8 +1,8 @@
 ---
-layout: page
 title: Contact
+permalink: "/contact/"
+layout: page
 description: Let's talk.
-permalink: /contact/
 ---
 
 <style type="text/css" media="screen">

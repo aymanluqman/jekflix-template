@@ -1,15 +1,17 @@
 ---
-layout: post
-title: "Como quase cai num golpe no Facebook e como desviar deles"
-date: 2017-09-10 12:26:40
-image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_fill,h_399,w_760/v1503153729/golpe_ghb84o.jpg'
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-category: 'life'
+title: Como quase cai num golpe no Facebook e como desviar deles
+date: 2017-09-10 12:26:40 Z
+categories:
+- life
 tags:
 - life
 - tips
+layout: post
+image: http://res.cloudinary.com/dm7h7e8xj/image/upload/c_fill,h_399,w_760/v1503153729/golpe_ghb84o.jpg
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua.
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
